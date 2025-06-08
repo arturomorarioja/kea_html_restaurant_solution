@@ -1,4 +1,4 @@
-# KEA Restaurant
+# HTML Restaurant
 
 ## Code practices
 The following practices applied to the project improve SEO and accessibility:
